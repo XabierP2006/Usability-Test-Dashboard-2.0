@@ -30,19 +30,30 @@ Para la clasificación de los problemas, se ha utilizado la siguiente escala:
 
 ---
 Login
+
+
 ![alt text](image.png)
 
+
 Dashboard
+
+
 ![alt text](image-1.png)
 
 Formularios
+
+
 ![alt text](image-2.png)
 
 Navegación
+
+
 ![alt text](image-3.png)
 
 
 Reportes
+
+
 ![alt text](image-4.png)
 
 
